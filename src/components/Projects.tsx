@@ -14,7 +14,7 @@ const Projects: React.FC = () => {
       technologies: ['Java', 'Spring Boot', 'OAuth 2.1', 'JWT', 'Okta', 'PCI-DSS'],
       icon: Shield,
       color: 'from-blue-500 to-blue-600',
-      achievements: ['100% PCI-DSS compliance', 'Zero security incidents', '99.9% uptime'],
+      
     },
     {
       title: 'Real-Time Analytics Platform',
@@ -23,7 +23,7 @@ const Projects: React.FC = () => {
       technologies: ['Kafka', 'Spring Boot', 'Microservices', 'React', 'PostgreSQL'],
       icon: BarChart3,
       color: 'from-green-500 to-green-600',
-      achievements: ['4× throughput improvement', '60% latency reduction', '5M+ events/day'],
+      
     },
     {
       title: 'Cloud-Native Migration',
@@ -32,7 +32,7 @@ const Projects: React.FC = () => {
       technologies: ['AWS', 'Azure', 'Kubernetes', 'Terraform', 'Docker', 'Helm'],
       icon: Cloud,
       color: 'from-purple-500 to-purple-600',
-      achievements: ['20% cost savings', '99.9% availability', 'Zero-downtime deployments'],
+      
     },
   ];
 
